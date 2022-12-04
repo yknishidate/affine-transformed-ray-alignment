@@ -1,5 +1,7 @@
 # Affine-Transformed Ray Alignment
 
+Yuki Nishidate and Issei Fujishiro. 2022. Affine-Transformed Ray Alignment for Fast Ray Traversal. In SIGGRAPH Asia 2022 Technical Communications (SA '22 Technical Communications). Association for Computing Machinery, New York, NY, USA, Article 13, 1–4. https://doi.org/10.1145/3550340.3564228
+
 ```
 // 1. Clone
 git clone https://github.com/yknishidate/affine-transformed-ray-alignment --recursive
